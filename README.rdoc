@@ -120,7 +120,7 @@ Finally, when you're ready to resume execution, you can enter "cont".
 == Console
 
 
-This is an application.
+This is an application. Buy Updated
 
 The console is a Ruby shell, which allows you to interact with your
 application's domain model. Here you'll have all parts of the application
